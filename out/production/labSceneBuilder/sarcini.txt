@@ -1,0 +1,14 @@
+2|Andrei
+4|Sarcina de lucru
+5|Ajutor mecanic
+6|Noua descriere
+10|Cumpara ustensile
+8|Cumpara mancare
+7|Cumpara alimente
+9|Cumpara ustensile
+19|alt titlu
+20|blabla
+1|fds
+23|Descriere
+15|Cumpara mancare
+14|Fa ceva fain
